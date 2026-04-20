@@ -4,6 +4,8 @@ A full-stack web application designed for teachers and administrators to easily 
 
 ##live-link:-https://red-white-rho.vercel.app/
 
+![Student Attendance System Preview](./rw.png)
+
 ## 🌟 Features
 
 - **Add Students**: Easily add new students to the system by providing their Name and Roll Number.
