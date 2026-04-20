@@ -2,7 +2,7 @@
 
 A full-stack web application designed for teachers and administrators to easily manage student records and track daily attendance. 
 
-![Student Attendance System Preview](https://via.placeholder.com/800x400.png?text=Student+Attendance+System+Dashboard)
+##live-link:-https://red-white-rho.vercel.app/
 
 ## 🌟 Features
 
