@@ -81,5 +81,4 @@ Make sure you have the following installed on your local machine:
 | `PUT` | `/api/students/:id/attendance` | Toggle present/absent status |
 | `DELETE`| `/api/students/:id` | Delete a student |
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+
